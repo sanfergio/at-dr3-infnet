@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     M["Motorista"]
     E["Estação de Recarga"]
@@ -20,3 +21,4 @@ flowchart LR
     E -- "Painel de status em tempo real" --> O
     E -- "Relatório de conformidade" --> R
     R -- "Regras de ocupação e segurança" --> E
+```
